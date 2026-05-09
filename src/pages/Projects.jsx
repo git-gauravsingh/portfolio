@@ -24,7 +24,7 @@ function Projects() {
       title: "My Details",
       desc: "A modern multi-page portfolio website showcasing projects, achievements, resume, and technical skills with responsive design, interactive UI, downloadable resume support, and smooth user experience.",
       tech: ["React", "Tailwind", "Vite"],
-      live: "https://portfolio-sepia-tau-27.vercel.app",
+      live: "https://portfolio-2277.vercel.app/",
       github: "https://github.com/git-gauravsingh/portfolio.git",
 
     },
